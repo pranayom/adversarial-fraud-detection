@@ -1,4 +1,5 @@
 """PaySim dataset loader and preprocessor."""
+## if you want a smaller sample dataset, Kaggle has a smaller sample at https://www.kaggle.com/datasets/ealaxi/paysim1
 import os
 import pandas as pd
 import numpy as np
