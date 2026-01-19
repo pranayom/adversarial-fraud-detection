@@ -41,14 +41,5 @@ reports/*.html
 Thumbs.db
 nul
 
-# Claude Code
-.claude/
-
-# Private/Internal docs (keep local only)
-LEARNINGS.md
-PROGRESS.md
-VIDEO_SCRIPT.md
-Adversarial\ Fraud\ Detection\ System\ -\ Implementatio.md
-
 # Output files (generated)
 outputs/
