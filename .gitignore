@@ -43,3 +43,9 @@ nul
 
 # Output files (generated)
 outputs/
+
+# AI assistant / Claude files - keep local only
+TUTORIALS.md
+CLAUDE.md
+DAILY_SPRINTS.md
+exposuregraph_7day_plan.md
